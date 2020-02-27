@@ -17,4 +17,5 @@ public interface IStudentDao {
     List<Student> getAll();
     
     Integer getCount();
+    
 }
